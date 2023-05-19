@@ -392,8 +392,4 @@ validate_inputs
 create_dirs_and_files
 write_file_content "$authorname"
 
-#echo $target_dir
-
-#cd $target_dir
-
 
